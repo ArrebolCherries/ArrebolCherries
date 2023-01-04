@@ -28,7 +28,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=fff)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=fff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CherryCherries&layout=compact&theme=transparent)](https://github.com/CherryCherries/github-readme-stats)
 
