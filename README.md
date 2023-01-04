@@ -21,6 +21,15 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
 
+:dart: Target
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=fff)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CherryCherries&layout=compact&theme=transparent)](https://github.com/CherryCherries/github-readme-stats)
 
 [![CherryCherries's GitHub stats](https://github-readme-stats.vercel.app/api?username=CherryCherries&show_icons=true&theme=transparent)](https://github.com/CherryCherries/github-readme-stats)
