@@ -1,4 +1,4 @@
-## :wave:Hi, CherryCherries here
+## :wave:Hi, ArrebolCherries here
 
 :cherries: You can call me Cherries
 
@@ -30,6 +30,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CherryCherries&layout=compact&theme=transparent)](https://github.com/CherryCherries/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArrebolCherries&layout=compact&theme=transparent)](https://github.com/ArrebolCherries/github-readme-stats)
 
-[![CherryCherries's GitHub stats](https://github-readme-stats.vercel.app/api?username=CherryCherries&show_icons=true&theme=transparent)](https://github.com/CherryCherries/github-readme-stats)
+[![ArrebolCherries's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArrebolCherries&show_icons=true&theme=transparent)](https://github.com/ArrebolCherries/github-readme-stats)
